@@ -1,0 +1,12 @@
+header {
+    background-color: #82b74b; /* Green color for header */
+    color: #fff; /* White text */
+    padding: 20px;
+    text-align: center;
+    position: relative; /* Enable positioning */
+}
+img{
+    margin: 12px;
+    width: 300px;
+    height: 350px;
+}
